@@ -11,11 +11,11 @@ public String getNombre() {
 public void setNombre(String nombre) {
 	this.nombre = nombre;
 }
- 
- @Override
-	public String toString() {
-		// TODO Auto-generated method stub
-		return super.toString();
-	}
- System.out.println("");
-}
+ /*Esto ha sido una prueba */
+//  @Override
+// 	public String toString() {
+// 		// TODO Auto-generated method stub
+// 		return super.toString();
+// 	}
+//  System.out.println("");
+// }
